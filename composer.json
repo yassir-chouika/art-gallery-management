@@ -1,0 +1,21 @@
+{
+  "name": "yassir-chouika/art-gallery-management",
+  "description": "Admin system to manage art gallery paintings and warehouses",
+  "license": "MIT",
+  "version": "1.0.0",
+  "autoload": {
+    "psr-4": {
+      "YassirChouika\\ArtGalleryManagement\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "CHOUIKA Yassir",
+      "email": "yassir.chouika@gmail.com"
+    }
+  ],
+  "minimum-stability": "stable",
+  "require": {
+    "vlucas/phpdotenv": "^5.6"
+  }
+}
